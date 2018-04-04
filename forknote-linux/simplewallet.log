@@ -1,0 +1,19 @@
+2018-Apr-04 02:34:14.789804 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Apr-04 02:34:14.790572 ERROR   [simplewallet] Error: failed to save new wallet: locale::facet::_S_create_c_locale name not valid
+2018-Apr-04 02:34:14.790635 ERROR   [simplewallet] Error: failed to generate new wallet: locale::facet::_S_create_c_locale name not valid
+2018-Apr-04 02:34:14.790676 ERROR   [simplewallet] account creation failed
+2018-Apr-04 02:34:14.790733 ERROR   [simplewallet] Failed to initialize wallet
+2018-Apr-04 02:34:14.790823 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:27446).
+2018-Apr-04 02:34:19.791138 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:27446).
+2018-Apr-04 02:34:39.800893 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Apr-04 02:34:39.801713 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:27446).
+2018-Apr-04 02:34:39.831202 INFO    [simplewallet] Generated new wallet: FUEBfKRWaeDZNtt3Td4cB5Ygc8BGVr6DKj13AJoQzLeFh87157Q4abyd4UhkXJJLcwHG8PGbhdmNCKZLVfNyTYy1MVtfS9V
+2018-Apr-04 02:34:39.831202 INFO    [simplewallet] view key: 259201bac8bd82022fca8d0269f0bc56f3055bf4befddd35cafdb9a565fb6c0a
+2018-Apr-04 02:34:39.831324 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-04 02:35:19.438205 INFO    [simplewallet] Wallet closed
